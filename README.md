@@ -18,3 +18,6 @@ Java HotSpot(TM) 64-Bit Server VM (build 24.45-b08, mixed mode)
 ```
 
 Branch 0.5.0.M5 works with both versions of java.
+
+**CORRECTION**
+Latest SNAPSHOT works fine and bug has been fixed since then.  Can't wait for M7 to be delivered.
